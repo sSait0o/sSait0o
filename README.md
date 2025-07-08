@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Quentin Leboucher
 
-🎓 **Fullstack Developer — Bachelor’s degree in Web & Application Development (Efrei — Villejuif)**
-💼 Looking for an apprenticeship contract for 2025–2026/28
+🎓 **Fullstack Developer — Bachelor’s degree in Web & Application Development (Efrei — Villejuif)**<br>
+💼 Looking for an apprenticeship contract for 2025–2026/28<br>
 📍 Passionate about coding, web integration, data, and DevOps tools
 
 ## 🔧 Skills

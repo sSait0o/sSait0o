@@ -41,13 +41,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sSait0o&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sSait0o&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sSait0o&theme=vue&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sSait0o&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

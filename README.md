@@ -86,17 +86,3 @@ Various academic & personal projects — see my [portfolio](https://ssait0o.gith
 * ✉️ [quentin.leboucher.pro@gmail.com](mailto:quentin.leboucher.pro@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/quentin-leboucher/)
 * 🌐 [Portfolio](https://ssait0o.github.io/Portfolio/)
-
-## 🛠️ Stack du projet
-
-| | |
-|---|---|
-| **Framework** | React 19 + Vite |
-| **Animations** | GSAP + ScrollTrigger |
-| **Déploiement** | GitHub Pages |
-
-```bash
-npm run dev      # développement
-npm run build    # build production
-npm run deploy   # déploiement GitHub Pages
-```

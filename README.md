@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Quentin Leboucher
 
-🎓 **Fullstack Developer — Bachelor Web & App Development · Mastère Data Engineer & IA (Efrei — Villejuif)**<br>
+🎓 **Fullstack Developer - Bachelor Web & App Development · Mastère Data Engineer & IA (Efrei - Villejuif)**<br>
 💼 Looking for an apprenticeship in **Data & AI** for 2026–2028<br>
 📍 Passionate about coding, web integration, data, and DevOps tools
 
@@ -13,7 +13,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,7 +26,6 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
 
 ### 🗄️ Databases
 
@@ -47,25 +45,25 @@
 
 ## 🚀 Experience
 
-* 🗺️ **Full Stack Dev — TTGE** *(Alternance, Sep 2025 – Aug 2026)* — Geospatial data platform (GDA): PostgreSQL, Mapbox GL JS, OpenData sync across 11 agencies
-* 💻 **Full Stack Dev — Leets** *(Internship, May–Jun 2025)* — CRM & interactive dashboard (React, TypeScript, Nest.js, Prisma, ShadCN, Tailwind), CI/CD, SEO, Agile/Jira
-* 🌐 **Frontend Dev — Leets** *(Internship, May–Jun 2024)* — Web integration with Webflow, React, GSAP — [leets.app](https://www.leets.app)
-* 🛒 **Interim — Elivia** *(2024–2025)* — Food distribution logistics
+* 🗺️ **Full Stack Dev - TTGE** *(Alternance, Sep 2025 – Aug 2026)* - Geospatial data platform (GDA): PostgreSQL, Mapbox GL JS, OpenData sync across 11 agencies
+* 💻 **Full Stack Dev - Leets** *(Internship, May–Jun 2025)* - CRM & interactive dashboard (React, TypeScript, Nest.js, Prisma, ShadCN, Tailwind), CI/CD, SEO, Agile/Jira
+* 🌐 **Frontend Dev - Leets** *(Internship, May–Jun 2024)* - Web integration with Webflow, React, GSAP - [leets.app](https://www.leets.app)
+* 🛒 **Interim - Elivia** *(2024–2025)* - Food distribution logistics
 
 ## 🎓 Education
 
-* **Mastère Data Engineer & IA** — Efrei Villejuif *(2026–2028)*
-* **Bachelor Web & Application Development** — Efrei Villejuif *(2023–2026)*
+* **Mastère Data Engineer & IA** - Efrei Villejuif *(2026–2028)*
+* **Bachelor Web & Application Development** - Efrei Villejuif *(2023–2026)*
 
 ## 🏅 Certifications
 
-* Java Object-Oriented Programming — JetBrains *(Jul. 2025)*
-* Big Data Foundations — Project Management Institute *(Jul. 2025)*
-* Data Engineering Foundations — NASBA *(Jul. 2025)*
+* Java Object-Oriented Programming - JetBrains *(Jul. 2025)*
+* Big Data Foundations - Project Management Institute *(Jul. 2025)*
+* Data Engineering Foundations - NASBA *(Jul. 2025)*
 
 ## 📂 Projects
 
-Various academic & personal projects — see my [portfolio](https://ssait0o.github.io/Portfolio/) and [GitHub](https://github.com/ssait0o)
+Various academic & personal projects - see my [portfolio](https://ssait0o.github.io/Portfolio/) and [GitHub](https://github.com/ssait0o)
 
 ## 🌍 Languages
 

@@ -47,24 +47,24 @@
 
 ## 🚀 Experience
 
-* 🗺️ **Full Stack Dev - TTGE** *(Alternance, Sep 2025 – Aug 2026)* — Geospatial data platform (GDA): Angular, TypeScript, NestJS, C#, Mapbox GL JS (2D/3D rendering), PostgreSQL sync across 11 agencies, Python scripts for TXT→GeoJSON conversion & automatic report generation
-* 💻 **Full Stack Dev - Leets** *(Internship, May–Jun 2025)* — CRM & interactive dashboard (React, TypeScript, Nest.js, Prisma, ShadCN, Tailwind), data analysis, CI/CD, SEO, Agile/Jira
-* 🌐 **Frontend Dev - Leets** *(Internship, May–Jun 2024)* — Web integration with Webflow, React, GSAP — [leets.app](https://www.leets.app)
+* 🗺️ **Full Stack Dev - TTGE** *(Alternance, Sep 2025 – Aug 2026)* - Geospatial data platform (GDA): Angular, TypeScript, NestJS, C#, Mapbox GL JS (2D/3D rendering), PostgreSQL sync across 11 agencies, Python scripts for TXT→GeoJSON conversion & automatic report generation
+* 💻 **Full Stack Dev - Leets** *(Internship, May–Jun 2025)* - CRM & interactive dashboard (React, TypeScript, Nest.js, Prisma, ShadCN, Tailwind), data analysis, CI/CD, SEO, Agile/Jira
+* 🌐 **Frontend Dev - Leets** *(Internship, May–Jun 2024)* - Web integration with Webflow, React, GSAP - [leets.app](https://www.leets.app)
 
 ## 🎓 Education
 
-* **Mastère Data Engineer & IA** — Efrei Villejuif *(Sept. 2026 – 2028)*
-* **Bachelor Web & Application Development** — Efrei Villejuif *(Sept. 2023 – 2026)*
+* **Mastère Data Engineer & IA** - Efrei Villejuif *(Sept. 2026 – 2028)*
+* **Bachelor Web & Application Development** - Efrei Villejuif *(Sept. 2023 – 2026)*
 
 ## 🏅 Certifications
 
-* Certification IA et Machine Learning — LinkedIn Learning *(Mai. 2026)*
-* Big Data Foundations — Project Management Institute *(Juil. 2025)*
-* Data Engineering Foundations — NASBA *(Juil. 2025)*
+* Certification IA et Machine Learning - LinkedIn Learning *(Mai. 2026)*
+* Big Data Foundations - Project Management Institute *(Juil. 2025)*
+* Data Engineering Foundations - NASBA *(Juil. 2025)*
 
 ## 📂 Projects
 
-Various academic & personal projects — see my [portfolio](https://ssait0o.github.io/Portfolio/) and [GitHub](https://github.com/ssait0o)
+Various academic & personal projects - see my [portfolio](https://ssait0o.github.io/Portfolio/) and [GitHub](https://github.com/ssait0o)
 
 ## 🌍 Languages
 

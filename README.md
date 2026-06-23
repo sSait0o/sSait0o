@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Quentin Leboucher
 
 🎓 **Fullstack Developer - Bachelor Web & App Development · Mastère Data Engineer & IA (Efrei - Villejuif)**<br>
-💼 Looking for an apprenticeship in **Data & AI** for 2026–2028<br>
+💼 Looking for an apprenticeship in **Data & AI** for 2026-2028<br>
 🗓️ Rythme : 1 semaine école / 2 semaines entreprise<br>
 📍 Passionate about data engineering, AI, and DevOps tools
 
@@ -47,14 +47,14 @@
 
 ## 🚀 Experience
 
-* 🗺️ **Full Stack Dev - TTGE** *(Alternance, Sep 2025 – Aug 2026)* - Geospatial data platform (GDA): Angular, TypeScript, NestJS, C#, Mapbox GL JS (2D/3D rendering), PostgreSQL sync across 11 agencies, Python scripts for TXT→GeoJSON conversion & automatic report generation
-* 💻 **Full Stack Dev - Leets** *(Internship, May–Jun 2025)* - CRM & interactive dashboard (React, TypeScript, Nest.js, Prisma, ShadCN, Tailwind), data analysis, CI/CD, SEO, Agile/Jira
-* 🌐 **Frontend Dev - Leets** *(Internship, May–Jun 2024)* - Web integration with Webflow, React, GSAP - [leets.app](https://www.leets.app)
+* 🗺️ **Full Stack Dev - TTGE** *(Alternance, Sep 2025 - Aug 2026)* - Geospatial data platform (GDA): Angular, TypeScript, NestJS, C#, Mapbox GL JS (2D/3D rendering), PostgreSQL sync across 11 agencies, Python scripts for TXT→GeoJSON conversion & automatic report generation
+* 💻 **Full Stack Dev - Leets** *(Internship, May-Jun 2025)* - CRM & interactive dashboard (React, TypeScript, Nest.js, Prisma, ShadCN, Tailwind), data analysis, CI/CD, SEO, Agile/Jira
+* 🌐 **Frontend Dev - Leets** *(Internship, May-Jun 2024)* - Web integration with Webflow, React, GSAP - [leets.app](https://www.leets.app)
 
 ## 🎓 Education
 
-* **Mastère Data Engineer & IA** - Efrei Villejuif *(Sept. 2026 – 2028)*
-* **Bachelor Web & Application Development** - Efrei Villejuif *(Sept. 2023 – 2026)*
+* **Mastère Data Engineer & IA** - Efrei Villejuif *(Sept. 2026 - 2028)*
+* **Bachelor Web & Application Development** - Efrei Villejuif *(Sept. 2023 - 2026)*
 
 ## 🏅 Certifications
 
